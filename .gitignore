@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Ejecutables del TP (los genera make)
+/entrada
+/monitor
